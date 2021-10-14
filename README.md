@@ -5,3 +5,6 @@ ISRG Root X1 certificate (used as root for MQTT, OTA and other servers) is valid
 
 ## api_telegram_org.pem
 Telegram API certificate is valid until June 29, 2034 20:06:20
+
+##digi_cert.pem
+DigiCert High Assurance EV Root CA is valid until November 10, 2031 3:00:00
