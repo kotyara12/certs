@@ -8,3 +8,6 @@ Telegram API certificate is valid until June 29, 2034 20:06:20
 
 ##digi_cert.pem
 DigiCert Global Root CA is valid until November 10, 2031 3:00:00
+
+##digi_cert_g2.pem
+DigiCert Global Root G2 is valid until January 15, 2038 12:00:00
